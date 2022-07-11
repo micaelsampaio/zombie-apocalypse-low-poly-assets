@@ -1,0 +1,23 @@
+{
+  "name": "com.micaelsampaio.low_poly_zombies",
+  "version": "0.0.1",
+  "displayName": "Zombie Apocalypse Low Poly Assets",
+  "description": "Free Zombie Apocalypse Low Poly Assets\n\n- Shool Boy\n- School Girl\n- 3 zombies variations (colror textures to create more variations)\n- Weapons\n- Hairs",
+  "unity": "2019.1",
+  "unityRelease": "0b5",
+  "documentationUrl": "",
+  "changelogUrl": "",
+  "licensesUrl": "",
+  "keywords": [
+    "low poly",
+    "zombies",
+    "apocalypse",
+    "Low poly zombie apocalypse"
+  ],
+  "author": {
+    "name": "Micael Sampaio",
+    "email": "ruimicaelsampaio@gmail.com",
+    "url": "https://micaelsampaio.com"
+  },
+  "type": "assets"
+}
